@@ -13,6 +13,7 @@ namespace WebApplication1
         {
             string Hello = "Hi there";
             string hi = "Hello there";
+            int iNum = 0;
         }
     }
 }
